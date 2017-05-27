@@ -1,18 +1,20 @@
-Advarion-Inc.
+# Advarion-Inc.
 =============
 
-Client Websites<br />
-Red Light Camera, July 2010<br />
+This are websites I built when I worked for Advarion, Inc. Some of these websites are no longer in use or have been changed.
 
-www.keephoustonsafe.com<br />
-www.baytowncameraswork.com<br />
-www.keepfloridasafe.com<br /><br />
+## Client Websites
+Red Light Camera, July 2010
 
-
-ADC & HAS, August 2010<br />
-www.hasadc.com<br /><br />
+[Keep Houston Safe](http://www.keephoustonsafe.com)
+[Baytown Cameras Work](http://www.baytowncameraswork.com)
+[Keep Florida Safe](http://www.keepfloridasafe.com)
 
 
-Houston Habitat for Humanity September 2010<br />
-www.houstonhabitat.org<br /><br />
+ADC & HAS, August 2010
+[ADC & HAS](http://www.hasadc.com)
+
+
+Houston Habitat for Humanity, September 2010
+[Houston Habitat for Humanity](http://www.houstonhabitat.org)
 
